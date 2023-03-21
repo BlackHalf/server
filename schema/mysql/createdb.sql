@@ -44,6 +44,7 @@ CREATE TABLE IF NOT EXISTS `doc_changes` (
 /*!40000 ALTER TABLE `doc_changes` DISABLE KEYS */;
 /*!40000 ALTER TABLE `doc_changes` ENABLE KEYS */;
 
+
 --
 -- Definition of table `task_result`
 --
